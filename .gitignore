@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+nodejs/boilerplate_app/
+*pyc
+uploads/
+npm-debug.log
