@@ -5,3 +5,4 @@ nodejs/boilerplate_app/
 uploads/
 npm-debug.log
 *.map
+bin/
