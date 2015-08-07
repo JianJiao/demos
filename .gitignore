@@ -4,3 +4,4 @@ nodejs/boilerplate_app/
 *pyc
 uploads/
 npm-debug.log
+*.map
